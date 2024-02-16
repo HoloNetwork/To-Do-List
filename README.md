@@ -1,2 +1,7 @@
 # To-Do-List
-Simple add and delete to do list.
+Simple to do list
+
+#Guide
+
+- Enter your task, date, and click add button
+- Once done delete your task using the delete button
